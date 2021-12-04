@@ -3,9 +3,9 @@
 
 ## 🌈 Hello I'm Xenon Welcome to My profile ✨
 
-My name is 'Xenon' 🌙
+My name is 'Xenon' 🌙           I'm Python/Javascript Beginer 💻
 
-my age 15 y 🌻
+my age 15 y 🌻                  I like a Coding!! 🌵
 
 I'm at Thailand,Pathumthani 🌏
 
