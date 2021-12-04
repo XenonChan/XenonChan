@@ -1,1 +1,1 @@
-![bannerpro](https://user-images.githubusercontent.com/78194120/144708213-9fee6283-0482-45ea-89a9-43e12b5bf46b.gif)
+![bantran1](https://user-images.githubusercontent.com/78194120/144708283-45b7af0e-0812-4c47-b84f-5611e4d89399.gif)
