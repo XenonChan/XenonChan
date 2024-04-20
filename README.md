@@ -11,7 +11,7 @@
     "name": "Chanachai (Xenon)",
     "age": 17,
     "study": "Nongsua",
-    "programing language and skill": ["Javascript", "Python", "C", "PHP (I forgot how to use it.;-;)", "HTML", "CSS (a little bit;-;)"],
+    "programing language and skill": ["Javascript", "Python", "C", "PHP", "HTML", "CSS"],
     "technology" : ["MySql", "MongoDB", "React", "Next", "Express.js", "Bootstrap"],
     "social": {
         "instragram": "wednesdaysnon",
