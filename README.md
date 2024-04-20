@@ -1,8 +1,10 @@
-### #include<stdio.h> void main() { printf("Hello World!!! I'm Xenon"); }
+#include<stdio.h> void main() { printf("Hello World!!! I'm Xenon"); }
 
 ### My Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/628826650972258344)](https://discord.com/users/628826650972258344)
+<p align="center">
+    <img src="https://lanyard.cnrad.dev/api/628826650972258344"/>
+</p>
 
 ### this MyProfile.json
 
@@ -19,7 +21,6 @@
     }
 }
 ```
-
-![IMG](https://moe-counter.glitch.me/get/@xenonchan)
-
-
+<p align="center">
+    <img src="https://moe-counter.glitch.me/get/@xenonchan"/>
+</p>
