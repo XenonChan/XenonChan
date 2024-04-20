@@ -1,6 +1,4 @@
-#include<stdio.h> void main() { printf("Hello World!!! I'm Xenon"); }
-
-### My Discord
+<h2>#include<stdio.h> void main() { printf("Hello World!!! I'm Xenon"); }</h2>
 
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/628826650972258344"/>
