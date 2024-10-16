@@ -9,7 +9,7 @@
 ```json
 {
     "name": "Chanachai (Xenon)",
-    "age": 17,
+    "age": 18,
     "study": "Nongsuawitthayokom",
     "programing language and skill": ["Javascript", "Python", "C", "PHP", "HTML", "CSS"],
     "technology" : ["MySql", "MongoDB", "React", "Next", "Express.js", "Bootstrap", "Discord.js"],
