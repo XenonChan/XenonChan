@@ -22,3 +22,7 @@
 <p align="center">
     <img src="https://moe-counter.glitch.me/get/@xenonchan"/>
 </p>
+
+<p align="center">
+    <iframe src="https://xenonchan.github.io/textrainbow.github.io/" frameborder="0"></iframe>
+</p>
