@@ -19,8 +19,8 @@
     }
 }
 ```
-<h3>ขออวดหน่อยเถอะ :3</h3>
-<h3>Computer Science Silpakorn University ✅</h3>
+<h2>ขออวดหน่อยเถอะ :3</h2>
+<h2>Computer Science Silpakorn University ✅</h2>
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/941169073146966016/1335175410442440825/image.png?ex=679f3680&is=679de500&hm=a3bdf1964bd9080c078bb999799b48c2ed7ba48c5e692d3c908380cd69f8475a&"/>
 </p>
