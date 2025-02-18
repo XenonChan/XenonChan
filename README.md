@@ -1,4 +1,4 @@
-<h2>print("Hello World I'm Xenon")</h2>
+<h2>print("Hello World I'm Xenon") I'm just a drunk developer.</h2>
 
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/628826650972258344"/>
