@@ -12,7 +12,7 @@
     "age": 18,
     "study": "Nongsuawitthayakom",
     "programing language and skill": ["Javascript", "Python", "C", "PHP", "HTML", "CSS"],
-    "technology" : ["MySql", "MongoDB", "React", "Next", "Express.js", "Bootstrap", "Discord.js"],
+    "technology" : ["MySql", "MongoDB", "React", "Next", "Express.js", "Bootstrap", "TailwindCSS", "Discord.js"],
     "social": {
         "instragram": "wednesdaysnon",
         "twitter or X": "@xedotexe"
