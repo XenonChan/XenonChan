@@ -11,8 +11,8 @@
     "name": "Chanachai (Xenon)",
     "age": 18,
     "study": "Computer Science Silpakorn University",
-    "programing language and skill": ["Javascript", "Python", "C/C++", "PHP", "HTML", "CSS"],
-    "technology" : ["MySql", "MongoDB", "React", "Next", "Express.js", "Bootstrap", "TailwindCSS", "Discord.js"],
+    "programing language and skill": ["Javascript/Typescript", "Python", "C/C++", "PHP", "HTML", "CSS"],
+    "technology" : ["Node.js","MySql", "MongoDB", "React", "Next", "Express.js", "Bootstrap", "TailwindCSS", "Discord.js"],
     "social": {
         "instragram": "wednesdaysnon",
         "twitter or X": "@xedotexe"
