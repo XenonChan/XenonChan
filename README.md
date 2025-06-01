@@ -1,21 +1,24 @@
-<h2>print("Hello World I'm Xenon") I'm just a drunk developer.</h2>
+## Hi there👋 print("Hello World I'm Xenon") I'm just a drunk developer.
+I'm working as fullstack developer and I'm student at Silpakorn University(SU82), Computer Science (SC54)
+nice to meet u :3
 
-<p align="center">
-    <img src="https://lanyard.cnrad.dev/api/628826650972258344"/>
-</p>
+## Position
+- 1<sup>st</sup> year at Silpakorn University, Computer Science.
+- Fullstack Developer freelance.
 
-### this MyProfile.json
+# Current skills🔥
+- Javascript and Typescript.
+- Python
+- C/C++
+- Java
+- HTML and CSS
+- NodeJs Next.js, EJS, TailwindCSS, Bootstrap5 for frontend, Express for backend and MySql, MongoDB for Database.
 
-```json
-{
-    "name": "Chanachai (Xenon)",
-    "age": 18,
-    "study": "Computer Science Silpakorn University",
-    "programing language and skill": ["Javascript/Typescript", "Python", "C/C++", "PHP", "HTML", "CSS"],
-    "technology" : ["Node.js","MySql", "MongoDB", "React", "Next", "Express.js", "Bootstrap", "TailwindCSS", "Discord.js"],
-    "social": {
-        "instragram": "wednesdaysnon",
-        "twitter or X": "@xedotexe"
-    }
-}
-```
+# What i need(?)
+- นอน🛏️
+
+
+
+
+
+
