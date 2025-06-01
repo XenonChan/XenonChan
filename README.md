@@ -12,9 +12,9 @@ nice to meet u :3
 - C/C++
 - Java
 - HTML and CSS
-- NodeJs Next.js, EJS, TailwindCSS, Bootstrap5 for frontend, Express for backend and MySql, MongoDB for Database.
+- NodeJs Next.js, EJS, TailwindCSS, Bootstrap5, Express MySql, MongoDB.
 
-# What i need(?)
+# What i need for my mental health(?)
 - นอน🛏️
 
 
